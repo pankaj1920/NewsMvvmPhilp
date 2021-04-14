@@ -1,0 +1,12 @@
+com/androiddevs/mvvmnewsapp/BuildConfig.java
+ com.androiddevs.mvvmnewsapp.BuildConfig
+com/androiddevs/mvvmnewsapp/db/ArticleDatabase_Impl.java
+ com.androiddevs.mvvmnewsapp.db.ArticleDatabase_Impl
+ com.androiddevs.mvvmnewsapp.db.ArticleDatabase_Impl$1
+com/androiddevs/mvvmnewsapp/db/ArticleDao_Impl.java
+ com.androiddevs.mvvmnewsapp.db.ArticleDao_Impl
+ com.androiddevs.mvvmnewsapp.db.ArticleDao_Impl$1
+ com.androiddevs.mvvmnewsapp.db.ArticleDao_Impl$2
+ com.androiddevs.mvvmnewsapp.db.ArticleDao_Impl$3
+ com.androiddevs.mvvmnewsapp.db.ArticleDao_Impl$4
+ com.androiddevs.mvvmnewsapp.db.ArticleDao_Impl$5
